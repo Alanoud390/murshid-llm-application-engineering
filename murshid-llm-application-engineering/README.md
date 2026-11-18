@@ -1,10 +1,11 @@
 # Murshid Mini — LLM Application Engineering
 
 **Course:** LLM Application Engineering — SDA-AIE-213  
-**Training context:** SDAIA Academy  
+**Training context:** [SDAIA Academy]((https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx))  
 **Instructor:** Meaad Al-Marri  
-**Author:** [Add your full name before submission]  
-**Cohort:** [Add the official cohort dates before submission]
+**Author:** Alanoud Abdulaziz Alwehaibi  
+**Email:** aad630748@gmail.com
+
 
 > This is an individual educational project prepared in the SDAIA Academy training context. This repository does not claim SDAIA endorsement, certification, or approval of this implementation.
 
