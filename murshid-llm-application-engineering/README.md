@@ -8,7 +8,7 @@
 **Email:** aad630748@gmail.com
 
 
-> This is an individual educational project prepared in the SDAIA Academy training context. This repository does not claim SDAIA endorsement, certification, or approval of this implementation.
+> This is an individual educational project prepared in the SDAIA Academy training context.
 
 ## Project overview
 
